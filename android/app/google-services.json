@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27005444440",
+    "project_id": "ooredooconx",
+    "storage_bucket": "ooredooconx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27005444440:android:bb9a7da79f4ac541d0052d",
+        "android_client_info": {
+          "package_name": "com.example.ooredooconx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27005444440-4nr22hfdr7pohj2qbcg5636hdge1gcsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Pxrc4MjI593GW1aKj3HzRptTA6NgpmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27005444440-4nr22hfdr7pohj2qbcg5636hdge1gcsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
